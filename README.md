@@ -1,6 +1,6 @@
 # to_do_app
 
-A new Flutter project.
+This project develops a to-do app that keeps track of all the things that an undividual needs to do and has options for marking and unmarking the tasks. It also enables them to add new tasks and delete existing tasks. This project uses the HIVE Database of the Flutter Framework . 
 
 ## Getting Started
 
